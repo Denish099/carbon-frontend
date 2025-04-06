@@ -5,7 +5,7 @@ import { useQuery } from "@tanstack/react-query";
 
 import LatestNews from "../pages/insights.jsx";
 import React from "react";
-import "./app.css";
+
 import Login from "../pages/login.jsx";
 import SignUp from "../pages/signup.jsx";
 import NavBar from "../components/navbar.jsx";
